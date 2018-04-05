@@ -2,7 +2,7 @@
 
 
 ## WebGL Demo
-https://dev001hajipro.github.io/TsumTsumLikeGame/
+https://dev001hajipro.github.io/Unity2DScrollingParallax/
 
 
 ## assets dependencies
